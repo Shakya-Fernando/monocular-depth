@@ -1,5 +1,6 @@
 # Monocular-depth
 Monocular Depth Estimation Models Project by GLOW - Only Showing Results
+A Project I worked on during my time at The Global Wetlands Project.
 
 # Documentation
 
